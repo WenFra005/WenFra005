@@ -1,4 +1,4 @@
-# 💫 Sobre mim:
+# 🧑🏽 Sobre mim:
 Atualmente estou cursando Gestão de Tecnologia da Informação (GTI).<br>Procuro estágio na área de TI e seguir carreira na parte de Gestão e Governança de TI. Sou calmo, objetivo e gosto de aprender. Tenho maior facilidade para realizar tarefas em equipe e também individualmente.
 
 
