@@ -2,9 +2,9 @@
 Atualmente estou cursando Gestão de Tecnologia da Informação (GTI).<br>Procuro estágio na área de TI e seguir carreira na parte de Gestão e Governança de TI. Sou calmo, objetivo e gosto de aprender. Tenho maior facilidade para realizar tarefas em equipe e também individualmente.
 
 
-##  Redes Sociais:
+##  Conecte-se comigo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/wendellfrancisco005/) 
-
+[![Outlook](wendellfrancisco2005@hotmail.com)]
 #  Linguagens de programação:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 # GitHub Stats:
