@@ -14,7 +14,7 @@ Sou calmo, objetivo e gosto de aprender. Tenho maior facilidade para realizar ta
 
 ##  Tecnologias:
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-20232A?style=for-the-badge&logo=mysql&logoColor=white) ![PowerBI](https://img.shields.io/badge/powerbi-FFA500?style=for-the-badge&logo=powerbi&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-007FFF?style=for-the-badge&logo=azure&logoColor=ffdd54)
 
 
 ## GitHub Stats:
