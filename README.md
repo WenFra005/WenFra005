@@ -4,7 +4,7 @@ Atualmente estou cursando Gestão de Tecnologia da Informação (GTI) no Centro 
 
 Procuro vaga de Jovem aprendiz e de estágio na área de TI e seguir carreira na parte de Gestão e Governança de TI. 
 
-Sou calmo, objetivo e gosto de aprender. Tenho maior facilidade para realizar tarefas em equipe e também individualmente.
+Sou calmo, objetivo e gosto de aprender. Gosto de aprender sobre assunto da área de dados, como banco de dados e SGBS, e graças tenho muito contado com essa área. Tenho maior facilidade para realizar tarefas em equipe e também individualmente.
 
 
 <div align="center">
