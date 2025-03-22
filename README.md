@@ -2,7 +2,7 @@
 
 Atualmente estou cursando Gestão de Tecnologia da Informação (GTI) no Centro Universitário Senac Santo Amaro na cidade de São Paulo.<br>
 
-Procuro vaga de Jovem aprendiz e de estágio na área de TI e seguir carreira na parte de Gestão e Governança de TI. 
+Tenho um objetivo de conseguir um cargo de **Cientista de Dados** e por isso busco conhecimentos em Python, Análise de Dados e Machine Learning.<br>
 
 Sou calmo, objetivo e gosto de aprender. Gosto de aprender sobre assunto da área de dados, como banco de dados e SGBS, e graças tenho muito contado com essa área. Tenho maior facilidade para realizar tarefas em equipe e também individualmente.
 
