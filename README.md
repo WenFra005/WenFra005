@@ -1,10 +1,8 @@
-<h1 align="center">Olá, eu sou o Wendell Francisco</h1>
+# Olá, eu sou o Wendell Francisco
 
-<p align="center">
 🎓 Estudante de <strong>Gestão de Tecnologia da Informação</strong> <br/>
 📍 São Paulo | Centro Universitário Senac – Santo Amaro <br/>
 💡 Apaixonado por <strong>dados</strong>, <strong>tecnologia</strong> e por aprender coisas novas!
-</p>
 
 ---
 
