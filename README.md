@@ -1,4 +1,4 @@
-#  Olá, meu nome é Wendell:
+#  Olá, meu nome é Wendell
 
 Atualmente estou cursando Gestão de Tecnologia da Informação (GTI) no Centro Universitário Senac Santo Amaro na cidade de São Paulo.<br>
 
