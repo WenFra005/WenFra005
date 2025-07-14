@@ -2,9 +2,7 @@
 
 Atualmente estou cursando Gestão de Tecnologia da Informação (GTI) no Centro Universitário Senac Santo Amaro na cidade de São Paulo.<br>
 
-Tenho um objetivo de conseguir um cargo de **Cientista de Dados** e por isso busco conhecimentos em Python, Análise de Dados e Machine Learning.<br>
-
-Sou calmo, objetivo e gosto de aprender. Gosto de aprender sobre assunto da área de dados, como banco de dados e SGBS, e graças tenho muito contado com essa área. Tenho maior facilidade para realizar tarefas em equipe e também individualmente.
+Sou calmo, objetivo e gosto de aprender. Gosto de assuntos relacionados a área de dados como ciência de dados e busco contruir uma carreira nessa área. Tenho maior facilidade para realizar tarefas em equipe e também individualmente.
 
 
 <div align="center">
@@ -14,7 +12,9 @@ Sou calmo, objetivo e gosto de aprender. Gosto de aprender sobre assunto da áre
 
 ##  Tecnologias:
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-20232A?style=for-the-badge&logo=mysql&logoColor=white) ![PowerBI](https://img.shields.io/badge/powerbi-FFA500?style=for-the-badge&logo=powerbi&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-007FFF?style=for-the-badge&logo=azure&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192?style=for-the-badge&logo=postgresql&logoColor=white) 
+
+![PowerBI](https://img.shields.io/badge/powerbi-FFA500?style=for-the-badge&logo=powerbi&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-007FFF?style=for-the-badge&logo=azure&logoColor=ffdd54)
 
 
 ## GitHub Stats:
