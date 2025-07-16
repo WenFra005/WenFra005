@@ -1,20 +1,20 @@
-# Olá, eu sou o Wendell Francisco
+# Wendell Francisco
 
 🎓 Estudante de **Gestão de Tecnologia da Informação**  
 📍 São Paulo | Centro Universitário Senac – Santo Amaro  
-💡 Apaixonado por **dados**, **tecnologia** e pelo aprendizado contínuo  
+💡 Entusiasta de **dados**, **tecnologia** e do aprendizado contínuo  
 
 ---
 
-## 🧠 Sobre mim
+## 🧠 Sobre
 
-Sou uma pessoa calma, objetiva e curiosa. Tenho grande interesse na área de **dados**, especialmente em **ciência de dados**, **análise de dados** e **machine learning**. 
+Estudante de Gestão de TI com forte interesse nas áreas de **ciência de dados**, **análise de dados** e **machine learning**. 
 
-Busco meu primeiro emprego na área de tecnologia, com o objetivo de construir uma carreira sólida e com foco em desenvolvimento profissional constante. Tenho facilidade para trabalhar em equipe e também de forma autônoma, sempre com disposição para aprender e contribuir.
+Tem como objetivo ingressar no mercado de trabalho em tecnologia e construir uma carreira sólida, com foco em desenvolvimento técnico e crescimento profissional. É uma pessoa calma, objetiva e curiosa, com facilidade para atuar tanto em equipe quanto de forma autônoma.
 
 ---
 
-## 🚀 Tecnologias que conheço
+## 🚀 Tecnologias
 
 ### 👨‍💻 Linguagens e Bancos de Dados
 
@@ -36,9 +36,9 @@ Busco meu primeiro emprego na área de tecnologia, com o objetivo de construir u
 
 ## 📊 Projetos em Destaque
 
-- 🔄 [**ETL_Extract_API**](https://github.com/WenFra005/ETL_Extract_API): Extração de dados via API pública utilizando Python. Projeto com foco em automação de processos de coleta e tratamento de dados.
-  
-- 📈 [**Relatório sobre a Covid-19**](https://github.com/WenFra005/Relatorio-sobre-a-Covid19): Análise e visualização de dados relacionados à pandemia da COVID-19, com uso do PowerBI para a realização do processo ETL e exibição do dashboard
+- 🔄 [**ETL_Extract_API**](https://github.com/WenFra005/ETL_Extract_API): Projeto de extração de dados via API pública com Python. O foco está na automação de processos de coleta e tratamento de dados.
+
+- 📈 [**Relatório sobre a Covid-19**](https://github.com/WenFra005/Relatorio-sobre-a-Covid19): Análise exploratória e visualização de dados da pandemia, utilizando bibliotecas como Pandas, Matplotlib e Seaborn.
 
 ---
 
@@ -56,7 +56,7 @@ Busco meu primeiro emprego na área de tecnologia, com o objetivo de construir u
 
 ---
 
-## 🌐 Conecte-se comigo
+## 🌐 Contato
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/wendellfrancisco005)
 
