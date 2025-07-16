@@ -16,18 +16,22 @@ Busco construir uma carreira sólida nessa área, com foco em crescimento consta
 
 ## 🚀 Tecnologias que conheço
 
-<div align="center">
 
 ### 👨‍💻 Linguagens e Bancos de Dados:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,mysql,postgres&theme=dark" />
+  </a>
+</p>
 
 ### 📊 Ferramentas e Plataformas:
-![PowerBI](https://img.shields.io/badge/PowerBI-FFA500?style=for-the-badge&logo=powerbi&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-007FFF?style=for-the-badge&logo=azure&logoColor=white)
 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,azure&theme=dark" />
+  </a>
+</p>
 </div>
 
 ---
@@ -36,7 +40,7 @@ Busco construir uma carreira sólida nessa área, com foco em crescimento consta
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Wenfra005&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Wenfra005&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Wenfra005&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Wenfra005&theme=midnight-purple&hide_border=false&layout=compact)
 
@@ -46,10 +50,8 @@ Busco construir uma carreira sólida nessa área, com foco em crescimento consta
 
 ## 🌐 Conecte-se comigo
 
-<div align="center">
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/wendellfrancisco005)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wendellfrancisco005/)
-</div>
 
 ---
 
