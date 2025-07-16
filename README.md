@@ -1,8 +1,8 @@
 # Olá, eu sou o Wendell Francisco
 
-🎓 Estudante de <strong>Gestão de Tecnologia da Informação</strong> <br/>
-📍 São Paulo | Centro Universitário Senac – Santo Amaro <br/>
-💡 Apaixonado por <strong>dados</strong>, <strong>tecnologia</strong> e por aprender coisas novas!
+🎓 Estudante de **Gestão de Tecnologia da Informação**  
+📍 São Paulo | Centro Universitário Senac – Santo Amaro  
+💡 Apaixonado por **dados**, **tecnologia** e pelo aprendizado contínuo  
 
 ---
 
@@ -10,14 +10,13 @@
 
 Sou uma pessoa calma, objetiva e curiosa. Tenho grande interesse na área de **dados**, especialmente em **ciência de dados**, **análise de dados** e **machine learning**. 
 
-Busco construir uma carreira sólida nessa área, com foco em crescimento constante e aprendizado contínuo. Tenho facilidade tanto para **trabalhar em equipe** quanto de forma **autônoma**.
+Busco meu primeiro emprego na área de tecnologia, com o objetivo de construir uma carreira sólida e com foco em desenvolvimento profissional constante. Tenho facilidade para trabalhar em equipe e também de forma autônoma, sempre com disposição para aprender e contribuir.
 
 ---
 
 ## 🚀 Tecnologias que conheço
 
-
-### 👨‍💻 Linguagens e Bancos de Dados:
+### 👨‍💻 Linguagens e Bancos de Dados
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -25,24 +24,33 @@ Busco construir uma carreira sólida nessa área, com foco em crescimento consta
   </a>
 </p>
 
-### 📊 Ferramentas e Plataformas:
+### 🛠️ Ferramentas e Plataformas
 
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,azure&theme=dark" />
   </a>
 </p>
-</div>
+
+---
+
+## 📊 Projetos em Destaque
+
+- 🔄 [**ETL_Extract_API**](https://github.com/WenFra005/ETL_Extract_API): Extração de dados via API pública utilizando Python. Projeto com foco em automação de processos de coleta e tratamento de dados.
+  
+- 📈 [**Relatório sobre a Covid-19**](https://github.com/WenFra005/Relatorio-sobre-a-Covid19): Análise e visualização de dados relacionados à pandemia da COVID-19, com uso do PowerBI para a realização do processo ETL e exibição do dashboard
 
 ---
 
 ## 📈 GitHub Stats
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
 
-![](https://github-readme-stats.vercel.app/api?username=Wenfra005&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Wenfra005&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Wenfra005&theme=midnight-purple&hide_border=false&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api?username=Wenfra005&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false" height="150"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wenfra005&theme=midnight-purple&hide_border=false" height="150"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wenfra005&theme=midnight-purple&hide_border=false&layout=compact" height="150"/>
 
 </div>
 
@@ -50,8 +58,7 @@ Busco construir uma carreira sólida nessa área, com foco em crescimento consta
 
 ## 🌐 Conecte-se comigo
 
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/wendellfrancisco005)
-
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/wendellfrancisco005)
 
 ---
 
@@ -60,4 +67,3 @@ Busco construir uma carreira sólida nessa área, com foco em crescimento consta
 [![](https://visitcount.itsvg.in/api?id=Wenfra005&icon=5&color=6)](https://visitcount.itsvg.in)
 
 </div>
-
