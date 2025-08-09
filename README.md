@@ -38,7 +38,7 @@ Tem como objetivo ingressar no mercado de trabalho em tecnologia e construir uma
 
 - 🔄 [**ETL_Extract_API**](https://github.com/WenFra005/ETL_Extract_API): Projeto de extração de dados via API pública com Python. O foco está na automação de processos de coleta e tratamento de dados.
 
-- 📈 [**Relatório sobre a Covid-19**](https://github.com/WenFra005/Relatorio-sobre-a-Covid19): Análise exploratória e visualização de dados da pandemia, utilizando bibliotecas como Pandas, Matplotlib e Seaborn.
+- 📈 [**Relatório sobre a Covid-19**](https://github.com/WenFra005/Relatorio-sobre-a-Covid19): Análise exploratória e visualização de dados da pandemia, utilizando PowerBi
 
 ---
 
