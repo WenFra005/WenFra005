@@ -49,6 +49,8 @@ Tem como objetivo ingressar no mercado de trabalho em tecnologia e construir uma
   <img src="https://github-readme-stats.vercel.app/api?username=Wenfra005&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false" height="150"/>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wenfra005&theme=midnight-purple&hide_border=false" height="150"/>
+</div>
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wenfra005&theme=midnight-purple&hide_border=false&layout=compact" height="150"/>
 
