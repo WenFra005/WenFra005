@@ -1,85 +1,67 @@
-<div align="center">
-
 # Wendell Francisco
 
-</div>
-
-🎓 Estudante de **Gestão de Tecnologia da Informação**  
-📍 São Paulo | Centro Universitário Senac – Santo Amaro  
-💡 Entusiasta de **dados** e **tecnologia** 
+**Desenvolvedor Back-end Java (Nível Júnior)** | Graduado em Gestão de TI
+📍 São Paulo, SP — Centro Unviversitário Senac -  Santo Amaro  
 
 ---
-<div align="center">
 
-## Sobre
+## Sobre mim
 
-</div>
+Graduado em Gestão da Tecnologia da Informação e 100% disponível para o mercado. Estou consolidando minha trilha prática em **Java com Spring Boot**, com foco em APIs Rest e arquitetura de microsserviços.
 
-Estudante de Gestão de TI com forte interesse nas áreas de **desenvolvimento back-end**, **análise de dados** e **machine learning**. 
-
-Tem como objetivo ingressar no mercado de trabalho em tecnologia e construir uma carreira sólida, com foco em desenvolvimento técnico e crescimento profissional. É uma pessoa calma, objetiva e curiosa, com facilidade para atuar tanto em equipe quanto de forma autônoma.
+Possuo base sólida em **Orientação a Objetos**, SQL e containerização com Docker. Possuo interesse no ecossistema de nuvem e por isso possuo certificação **AZ-900**. Meu objetivo atual é atuar como Desenvolvedor Júnior para transformar conhecimento teórico em experiência profissional consistente.
 
 ---
-<div align="center">
   
 ## 🚀 Tecnologias
 
-### 👨‍💻 Linguagens e Bancos de Dados
+|Camada|Tecnologias|
+|------|-----------|
+|**Linguagem principal**| <img alt="Java" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Java.svg"> <img alt="Spring Boot" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Spring Boot.svg">|
+|**Linguagem secundária**| <img alt="Python" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Python.svg">|
+|**Integração/APIs**| REST APIs, métodos HTTP|
+|**Banco de Dados**| <img alt="Postgresql" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Postgresql.svg"> <img alt="MySQL" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/MySQL.svg">|
+|**DevsOps & Cloud**|<img alt="Docker" height="60" width="60" src="https://github.com/gui-bus/TechIcons/raw/main/Dark/Docker.svg">  <img alt="Azure" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Azure.svg">|
+|**Versionamento**|<img alt="GIT" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/GIT.svg"> <img alt="Github" height="60" width="60" src="https://github.com/gui-bus/TechIcons/raw/main/Dark/Github.svg">|
 
-  <img alt="Java" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Java.svg">
-  <img alt="Python" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Python.svg">
-  <img alt="MySQL" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/MySQL.svg">
-  <img alt="Postgresql" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Postgresql.svg">
-  
-  
-  
-  
-### 🛠️ Ferramentas e Plataformas
-
-  <img alt="VSCode" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/VSCode.svg">
-  <img alt="Azure" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Azure.svg">
-  
-</div>
-
----
-
-<div align="center">
-
-## 🌐 Contato
-
-  <a href="https://www.linkedin.com/in/wendellfrancisco005">
-    <img alt="Linkedin" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Linkedin.svg">
-  </a>
-  
-  <a href="mailto:wendellfrancisco2005@hotmail.com">
-    <img alt="Outlook" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Outlook.svg">
-  </a>
-  
-</div>
-
-<div align="center">
   
 ## 📊 Projetos em Destaque
 
-</div>
+### [Sistema de E-commerce em Microserviços (em andamento)](https://github.com/WenFra005/javaEcommerce)
+*Projeto pessoal para consolidar Spring Boot e arquitetura distribuída*
+- **Objetivo**: Constuir um CRUD completo de produtos/pedidos e evoluir para comunicação entre microsserviços
+- **Tecnologias**: Java, Spring Boot, PostreSQL, Docker.
+- **Status**: Desenvolvimento ativo (atualmente desenvolvendo o módulo de gerenciamento de usuários) - aplico conceitos de injeção de dependência, camadas (Controller/Service/Repository) e integração com banco de dados.
+
+### [**ETL_Extract_API**](https://github.com/WenFra005/ETL_Extract_API)
+*Pipeline de extração de dados de API pública - meu primeiro projeto com integração de sistemas*
+- **Desafio**: Não possuía conhecimento em CRUD ou integração com sistemas externos. Foi meu laboratório para aprender métodos HTTP e consumo de APIs.
+- **Aprendizados**: Consumo de APIs com Python (`requests`), integração com Streamlit para visualização de dados.
+- **Tecnologias**: Python, Streamlit, API REST
+
+## Atividades e Certificações
+- **Formação acadêmica**: Tecnologia em Gestão de Tecnologia da Informação - Centro Univsersitário Senac Santo Amaro (**Concluído**)
+- **Certificação Microsoft Azure Fundamentals (AZ-900)** - Fundamentos de computação em nuvem, serviços e segurança.
+
+<div align="center">
   
-- 🔄 [**ETL_Extract_API**](https://github.com/WenFra005/ETL_Extract_API): Projeto de extração de dados via API pública com Python. O foco está na automação de processos de coleta e tratamento de dados.
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=WenFra005&rank_icon=github&show_icons=true&theme=midnight-purple)](https://github-stats-extended.vercel.app/api?username=WenFra005&rank_icon=github&show_icons=true&theme=midnight-purple)
 
-- 📈 [**Relatório sobre a Covid-19**](https://github.com/WenFra005/Relatorio-sobre-a-Covid19): Análise exploratória e visualização de dados da pandemia, utilizando PowerBi
-
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-
-## 📈 GitHub Stats
-
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Wenfra005&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false" height="150"/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wenfra005&theme=midnight-purple&hide_border=false" height="150"/>
   
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=WenFra005&layout=compact&langs_count=4&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=WenFra005&layout=compact&langs_count=4&theme=midnight-purple)
+
+ </div>
+
+## Contato
+
+Estou disponível para oportunidades de **Trainee ou posições Júnior em Back-end Java**. Tenho total flexibilidade de horários e disponibilidade para início imediato.
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/wendellfrancisco005">
+    <img alt="Linkedin" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Linkedin.svg">
+  </a>
+  <a href="mailto:wendellfrancisco2005@hotmail.com">
+    <img alt="Outlook" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Outlook.svg">
+  </a>
 </div>
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wenfra005&theme=midnight-purple&hide_border=false&layout=compact" height="150"/>
-
-</div>
