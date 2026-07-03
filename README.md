@@ -34,10 +34,11 @@ Possuo base sólida em **Orientação a Objetos**, SQL e containerização com D
 - **Status**: Desenvolvimento ativo (atualmente desenvolvendo o módulo de gerenciamento de usuários) - aplico conceitos de injeção de dependência, camadas (Controller/Service/Repository) e integração com banco de dados.
 
 ### [**ETL_Extract_API**](https://github.com/WenFra005/ETL_Extract_API)
-*Pipeline de extração de dados de API pública - meu primeiro projeto com integração de sistemas*
-- **Desafio**: Não possuía conhecimento em CRUD ou integração com sistemas externos. Foi meu laboratório para aprender métodos HTTP e consumo de APIs.
+*Pipeline de extração de dados da cotação USD-BRL em tempo real - meu primeiro projeto com integração de sistemas*
+- **O que faz**: Extrai dados de cotação do dólar via API externa, aplica transformações e validações e armazena os dados em banco PostgreSQL para análise histórica. Os dados são exibidos em um dashboard interativo no Streamlit, com filtros por período (hora, dia, semana, mês) e métricas estatísticas.
+- **Desafio**: Não possuía conhecimento em CRUD ou integração com sistemas externos. Foi meu primeiro contato com métodos HTTP, consumo de APIs e deploys de aplicações em produção.
 - **Aprendizados**: Consumo de APIs com Python (`requests`), integração com Streamlit para visualização de dados.
-- **Tecnologias**: Python, Streamlit, API REST
+- **Tecnologias**: Python, Streamlit, Pandas, SQLAlchemy, Gunicorn e Render (deploy na nuvem)
 
 ## Atividades e Certificações
 - **Formação acadêmica**: Tecnologia em Gestão de Tecnologia da Informação - Centro Univsersitário Senac Santo Amaro (**Concluído**)
